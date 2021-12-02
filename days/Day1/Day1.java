@@ -28,6 +28,6 @@ public class Day1 extends Day {
         count++;
       }
     }
-    System.out.println(String.format("Part 1: %d", count));
+    System.out.println(String.format("Part 2: %d", count));
   }
 }
